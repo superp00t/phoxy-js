@@ -12,7 +12,15 @@
     "etc-js": "git+https://github.com/superp00t/etc-js.git",
     "isomorphic-ws": "git+https://github.com/heineiuo/isomorphic-ws.git",
     "remarkable": "git+https://github.com/jonschlinkert/remarkable.git",
-    "sanitize-html": "git+https://github.com/punkave/sanitize-html.git"
+    "sanitize-html": "git+https://github.com/punkave/sanitize-html.git",
+    "katex": "git+https://github.com/Khan/KaTeX.git"
+  },
+  "devDependencies": {
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  },
+  "scripts": {
+    "dist": "webpack ."
   },
   "main": "lib/index"
 }

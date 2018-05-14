@@ -1,0 +1,1 @@
+window.Phoxy = require("./lib/");
