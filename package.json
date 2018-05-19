@@ -13,7 +13,7 @@
     "isomorphic-ws": "git+https://github.com/heineiuo/isomorphic-ws.git",
     "remarkable": "git+https://github.com/jonschlinkert/remarkable.git",
     "sanitize-html": "git+https://github.com/punkave/sanitize-html.git",
-    "katex": "git+https://github.com/Khan/KaTeX.git"
+    "katex": "latest"
   },
   "devDependencies": {
     "webpack": "latest",
