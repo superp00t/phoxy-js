@@ -11,9 +11,9 @@
   "dependencies": {
     "etc-js": "git+https://github.com/superp00t/etc-js.git",
     "isomorphic-ws": "git+https://github.com/heineiuo/isomorphic-ws.git",
+    "katex": "^0.10.0-alpha",
     "remarkable": "git+https://github.com/jonschlinkert/remarkable.git",
-    "sanitize-html": "git+https://github.com/punkave/sanitize-html.git",
-    "katex": "latest"
+    "sanitize-html": "git+https://github.com/punkave/sanitize-html.git"
   },
   "devDependencies": {
     "webpack": "latest",
